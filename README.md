@@ -6,4 +6,4 @@ Este curso de edX proporciona una introducción para principiantes al lenguaje d
 [https://www.edx.org/es/course/conceptos-basicos-de-python-para-data-science](https://www.edx.org/es/course/conceptos-basicos-de-python-para-data-science)
 
 ### print(sys.version)
-3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
+Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
